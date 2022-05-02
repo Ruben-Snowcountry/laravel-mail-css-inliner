@@ -1,5 +1,5 @@
 Laravel Mail CSS Inliner
-========================
+=========================
 
 ![](https://github.com/fedeisas/laravel-mail-css-inliner/workflows/CI/badge.svg)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=fedeisas/laravel-mail-css-inliner&identifier=16568832)](https://dependabot.com)
